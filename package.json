@@ -1,0 +1,20 @@
+{
+  "name": "pakcoinbot",
+  "version": "1.0.0",
+  "description": "PakCoin Mining Bot: Earn cryptocurrency rewards in real-time with automated mining, instant payouts, and 24/7 monitoring",
+  "main": "config.js",
+  "scripts": {
+"start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepakcoin/Pakcoinbot.git"
+  },
+  "author": "Muhammad Khalid Meo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepakcoin/Pakcoinbot/issues"
+  },
+  "homepage": "https://github.com/thepakcoin/Pakcoinbot#readme"
+}
